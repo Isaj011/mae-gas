@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mae-gas",
-    "slug": "mae-gas",
+    "name": "Mae-Gas",
+    "slug": "maeGas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
