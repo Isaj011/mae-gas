@@ -90,7 +90,7 @@ export const onboarding = [
         id: 3,
         title: "Your Energy, your Gas. Let's go!",
         description:
-            "Enter your destination, sit back, and let us take care of the rest.",
+            "Enter your location, sit back, and let us take care of the rest.",
         image: images.onboarding3,
     },
 ];
